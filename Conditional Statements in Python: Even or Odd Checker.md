@@ -23,3 +23,5 @@ else:
 <img width="663" height="364" alt="image" src="https://github.com/user-attachments/assets/8ec1cf31-0eac-46f8-8910-636dac83aec1" />
 
 ## Result
+Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully.
+
